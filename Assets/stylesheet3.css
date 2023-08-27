@@ -1,0 +1,63 @@
+.nav-list {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.navbar {
+    display: flex;
+    background-color: lightslategray;
+    height: 80px;
+    align-items: center;
+}
+.nav-list li {
+    margin: 0 80px;
+}
+a {
+    color: white;
+}
+.item {
+    text-decoration: underline;
+}
+.div1 {
+    width: 20%;
+}
+.div2 {
+    width: 80%;
+    padding: 0 30px;
+}
+.maindiv {
+    display: flex;
+}
+.div3 {
+    display: flex;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 80%; /* Set the width to 80% */
+    margin: 0 auto; /* Center horizontally */
+}
+.button {
+    height: 50px;
+    background-color: lightseagreen;
+    border: black solid 2px;
+    font-size: large;
+}
+.contact-form {
+    background-color: lightslategray;
+    text-align: center;
+    padding: 50px;
+    width: 80%;
+    padding: 0;
+    margin: 0 auto;
+}
+input {
+    width: 250px;
+}
+textarea {
+    width: 220px;
+}
