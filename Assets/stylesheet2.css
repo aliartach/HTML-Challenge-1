@@ -1,0 +1,43 @@
+img {
+    width: 500px;
+    height: 500px;
+}
+h1 {
+    text-align: center;
+}
+.description {
+    text-align: center;
+}
+.flavor {
+    text-align: left;
+}
+.price {
+    text-align: right;
+}
+.hotsection {
+    width: 49%;
+}
+.icedfrappe {
+    width: 49%;
+}
+h2 {
+    text-align: center;
+}
+.div1 {
+    width: 40%;
+}
+.div2 {
+    width: 40%;
+}
+.maindiv {
+    display: flex;
+    justify-content: space-around;
+    background-color: lightslategray;
+}
+.logo {
+    width: 250px;
+    height: 250px;
+}
+.lastdiv {
+    display: flex;
+}
